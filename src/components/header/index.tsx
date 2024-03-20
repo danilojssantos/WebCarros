@@ -20,14 +20,14 @@ const loadingAuth = false;
             {!loadingAuth && signed &&(
               <Link to="/dashboard">
                 <div className="border-2 rounded-full p-1 border-gray-900">
-                   <FiUser size={24} color="#000"/>
+                   <FiUser size={23} color="#000"/>
                 </div>
                 
               </Link>
             )}
            {!loadingAuth && !signed &&(
               <Link to="/login">
-                <FiLogIn size={24} color="#000"/>
+                <FiLogIn size={23} color="#000"/>
               </Link>
             )}
           </header>
