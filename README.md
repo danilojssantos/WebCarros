@@ -4,9 +4,9 @@
 
 ## Tecnologias utilizadas
 
-**Front-end:** React + TypeScript + Vite
+**Front-end:** `React` + `TypeScript` + `Vite` + `Tailwind CSS `
 
-**Back-end:** Node, Express
+**Back-end:** `Node`, `Express`
 
 
 
