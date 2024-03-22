@@ -33,10 +33,6 @@ export function Home(){
           </div>
         </section>
 
-
-        
-
-
       </main>
     </Container>
   )
