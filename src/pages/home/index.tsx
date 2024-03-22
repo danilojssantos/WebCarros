@@ -12,6 +12,8 @@ export function Home(){
           Buscar
         </button>
       </section>
+      <h1 className="font-bold text-center mt-6 text-2xl mb-4">
+        Carros novos e usados em todo Brasil</h1>
     </Container>
   )
 }
