@@ -9,7 +9,23 @@
 **Back-end:** `Node`, `Express`
 
 
+## Dependências
 
+**hokform/resolvers -> `"^3.3.4"`** 
+
+**localforage -> `"^1.10.0"`** 
+
+**match-sorter  -> `"^6.3.4"`** 
+
+**react -> `"^18.2.0"`**
+
+**react-dom -> `"^18.2.0"`**
+
+**react-hook-form -> `"^7.51.1"`**
+
+## Dependências de Desenvolvimento
+
+**nodemon -> `"^3.1.0"`** 
 
 
 
